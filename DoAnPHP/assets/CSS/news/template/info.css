@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ctn-custom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+/* .ctn-custom .vanban h2{
+    color: aliceblue;
+} */
+.vanban h2{
+    font-size: 30px;
+    font-weight: bolder;
+   
+}
+.text1{
+    background: url(/assets/img/naruto02.jpg);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent ;
+}
+.vanban p{
+    font-size: 13px;
+    
+}
